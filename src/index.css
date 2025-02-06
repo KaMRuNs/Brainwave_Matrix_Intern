@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-dark: #F17228;
+  --color-light: #FFB30E;
+  --color-bg: #FEEFD0;
+  --shadow-btn: 0 0 5px #FFB30E, 0 0 20px #FFB30E, 0 0 60px #FFB30E, 0 0 80px #FFB30E;
+  --shadow-normal: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
