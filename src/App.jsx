@@ -7,7 +7,6 @@ import PopularItem from "./components/PopularItem";
 import FeatureRestau from "./components/FeatureRestau";
 import SearchFood from "./components/SearchFood";
 import Footer from "./components/Footer";
-import LastSecond from "./components/LastSecond";
 import Special from "./components/Special";
 import Features from "./components/Features";
 
@@ -26,9 +25,6 @@ const App = () => {
         </div>
         <Features />
         <Special />
-
-        <LastSecond />
-
         <Footer />
       </div>
     </div>
